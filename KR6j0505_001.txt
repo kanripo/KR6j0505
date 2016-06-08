@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:33:52.108529
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:20
 #+TITLE: 大聖歡喜雙身毘那夜迦天形像品儀軌
 #+PROPERTY: CBETA_ID T21n1274
 #+PROPERTY: ID KR6j0505
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1274
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0505_T_001-0323b> 
 #+PROPERTY: JUAN 1
 ¶
-No.1274¶
-
- 大聖歡喜雙身毘那夜迦天形像¶
+No. 1274¶
+大聖歡喜雙身毘那夜迦天形像¶
 品儀軌一卷¶
 ¶
 憬瑟撰集¶
@@ -64,7 +63,7 @@ No.1274¶
 此法祕之(滿賢右手執寶棒。愛子左手把三股杵)。¶
 雙身毘那夜迦天形像品儀軌¶
 
-享和二年壬戌夏五月二日。求此本於智¶
+享和二年壬戍夏五月二日。求此本於智¶
 積院慈順僧正所。而挍合點國字命工上¶
 木。豐山輪下僧快道誌。¶
 
